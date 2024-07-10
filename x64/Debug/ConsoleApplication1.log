@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+F:\University\Assignment\C++ Program\ConsoleApplication1.cpp(99,10): warning C4129: '_': unrecognized character escape sequence
+F:\University\Assignment\C++ Program\ConsoleApplication1.cpp(103,10): warning C4129: ' ': unrecognized character escape sequence
+  ConsoleApplication1.vcxproj -> F:\University\Assignment\C++ Program\x64\Debug\ConsoleApplication1.exe
